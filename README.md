@@ -1,6 +1,6 @@
 # BillingSystemDemo
 
-A java implementation about a billing system for employees of a company. The company has in house
+A java implementation about a billing system for employees of a company which has in house
 and outsourced employees. This application implements the following reports for the company:
 
 1. Total cost per day (one report for in house and one for outsourced employees)
